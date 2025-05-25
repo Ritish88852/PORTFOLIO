@@ -64,7 +64,7 @@ h2{
 
  /* Index */
 .homepage{
-  background: url(placeholder-images/background.jpg) no-repeat;
+  background: url(../placeholder-images/background.jpg) no-repeat;
   background-size:cover;
   display: flex;
   flex-direction: column;
@@ -84,7 +84,7 @@ h2{
 
  /* Resume  */
  .resume header::before{
-  background: url(placeholder-images/background.jpg) center/cover;
+  background: url(../placeholder-images/background.jpg) center/cover;
   content:"";
   height: 300px;
   display: block;
