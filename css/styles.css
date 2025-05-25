@@ -58,13 +58,13 @@ h2{
 }
 
  h3{
-  font-size: 2 rem;
+  font-size: 2rem;
  }
 
 
  /* Index */
 .homepage{
-  background: url(/placeholder-images/background.jpg) no-repeat;
+  background: url(placeholder-images/background.jpg) no-repeat;
   background-size:cover;
   display: flex;
   flex-direction: column;
